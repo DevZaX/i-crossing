@@ -1,0 +1,679 @@
+[
+  [
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8395499,35.7469781,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8380103,35.7463685,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8370232,35.7460246,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8344269,35.7450712,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8312941,35.7440044,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8307845,35.7438782,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8304572,35.7436605,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8250713,35.7429638,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8198679,35.7433034,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8194441,35.7433862,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8178401,35.7437998,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.815807,35.7435168,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8103621,35.7412266,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8063603,35.741601,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.7993544,35.7434123,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8301944,35.7438346,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8298671,35.7435211,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8302212,35.7433644,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8186233,35.7434994,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8170193,35.7439827,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8171749,35.7443092,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8077443,35.7417142,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8060277,35.7418535,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8057594,35.7417229,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.8059525,35.7414704,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.7992041,35.7433687,0"
+      }
+    },
+    {
+      "name": "P",
+      "ExtendedData": {
+        "SchemaData": {
+          "-schemaUrl": "#Passage_des_piétons",
+          "SimpleData": [
+            {
+              "-name": "tessellate",
+              "#text": "-1"
+            },
+            {
+              "-name": "extrude",
+              "#text": "0"
+            },
+            {
+              "-name": "visibility",
+              "#text": "-1"
+            }
+          ]
+        }
+      },
+      "Point": {
+        "coordinates": "-5.7991129,35.743704,0"
+      }
+    }
+  ]
+]
